@@ -1,7 +1,3 @@
-Here’s a clean, sharp **“About Me” section** you can drop straight into your **GitHub README.md**.
-It’s forward-looking, technical, and honest—no cringe, no fluff.
-
----
 
 ## 👋 About Me
 
