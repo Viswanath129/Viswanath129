@@ -1,19 +1,19 @@
 
-## 👋 Hi, I’m Viswanath
+##  Hi, I’m Viswanath
 
 **AI • Edge Intelligence • Robotics • Applied Research**
 
-🚀 **AI on Edge** | 🤖 **Computer Vision** | 🛰 **Space-Tech Concepts**
+ **AI on Edge** |  **Computer Vision** |  **Space-Tech Concepts**
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-🎓 Electronics & Communication Engineering student
-🧠 Builder–researcher focused on **hardware + software + intelligence**
-🔬 Strong interest in **applied AI research**, not just model training
-⚙️ Design mindset: **constraints first** (compute, latency, power, cost)
-🚀 I ship working systems—then improve them
+ Electronics & Communication Engineering student
+ Builder–researcher focused on **hardware + software + intelligence**
+ Strong interest in **applied AI research**, not just model training
+ Design mindset: **constraints first** (compute, latency, power, cost)
+ I ship working systems—then improve them
 
 I work on projects that sit at the intersection of **embedded systems, AI, and real-world deployment**—from **voice assistants and resume screening pipelines** to **edge AI on NPUs, computer vision systems, and experimental BCI concepts**.
 
@@ -21,7 +21,7 @@ I believe **progress > polish**. Build fast, test assumptions, iterate harder.
 
 ---
 
-## 🧠 Core Interests
+##  Core Interests
 
 * Artificial Intelligence & Machine Learning
 * Edge AI / NPUs / Embedded Inference
@@ -32,16 +32,16 @@ I believe **progress > polish**. Build fast, test assumptions, iterate harder.
 
 ---
 
-## 🛠️ Skills & Tools
+##  Skills & Tools
 
-### 💻 Programming & Frameworks
+###  Programming & Frameworks
 
 * Python, C/C++
 * Verilog (learning)
 * TensorFlow, PyTorch, OpenCV
 * FastAPI, Streamlit
 
-### ⚙️ Edge & Systems
+###  Edge & Systems
 
 * Snapdragon NPU (SNPE)
 * Linux, ADB
@@ -49,7 +49,7 @@ I believe **progress > polish**. Build fast, test assumptions, iterate harder.
 
 ---
 
-## 📌 Technical Focus
+##  Technical Focus
 
 * Edge AI optimization & deployment
 * NPU-accelerated inference pipelines
@@ -59,7 +59,7 @@ I believe **progress > polish**. Build fast, test assumptions, iterate harder.
 
 ---
 
-## 📂 Featured Projects
+##  Featured Projects
 
 🔹 AI Voice Assistant with system-level control
 🔹 Resume Screening Bot using NLP & ML pipelines
